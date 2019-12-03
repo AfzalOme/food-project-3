@@ -1,0 +1,117 @@
+/*fonts starts*/
+@font-face{
+	font-family:
+	src: url();
+}
+
+body{
+    margin: 0;
+}
+.header{
+	background-color: #222325; 
+    color: #fff;
+}
+.header h2{
+    padding-top: 7%;
+    margin: 0;
+    font-size: 40px;
+    padding-bottom: 1%;
+}
+.header h6{
+    font-size: 25px;
+    color: #b9bdb9;
+    line-height: 26px;
+}
+.header-content{}
+.header-content h1{
+     font-family: 'Abril Fatface', cursive;
+    font-size: 42px;
+    letter-spacing: 11px;
+    transform: scale(1 ,1.3 );
+    margin-top: 30px;
+
+}
+
+#down-img{
+   float: right;
+    padding-top: 93%;
+    font-size: 30px;
+        cursor: pointer;
+}
+.header-p{
+
+    letter-spacing: 10px;
+
+}
+.burger{}
+.burger img{
+    margin-left: 21px;
+    margin-top: 25px;
+
+}
+/*header ends*/
+/*main starts*/
+.gallery{
+    padding: 80px 0;
+}
+
+.mt-20{
+    margin-top: 20px;
+
+}
+.gallary-content{}
+.gallary-content h1{
+    width: 100%;
+    height: 46px;
+    position: absolute;
+    color: black;
+    background-color: #ffffff6e;
+    padding: 3% 0 7% 3%;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+/* .main{
+    width: 80%;
+    margin: auto;
+} */
+.left{
+    margin: 10% 0 0 0;
+    position: relative;
+}
+/* .left img{
+    width: 510px;
+    height: 339px;
+} */
+/* .left h1{
+    width: 100%;
+    position: absolute;
+    color: black;
+    background-color: #ffffff6e;
+    padding: 3% 0 7% 3%;
+    font-size: 25px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+ */
+ .butn{
+    text-align: center;
+   padding-top: 169px;
+ }
+ .btn-custom{
+	    color: #0078C1;
+    font-size: 20px;
+    padding: 10px 50px;
+    border-radius: 25px;
+    font-weight: 600;
+    border: 2px solid black;
+}
+.btn-custom:hover{
+	    color: white;
+    background-color: #0078C1;
+    border-color: white;
+    text-decoration: none;
+}
+/*fonts ends*/
+/*body starts*/
+ /*body ends*/
